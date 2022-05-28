@@ -1,0 +1,194 @@
+* {
+    font-family: Helvetica;
+    box-sizing: border-box;
+    padding:0;
+}
+
+/* for mulai sewa mobil button */
+.btn-success {
+    background-color: #5CB85F !important;
+    margin-top: 10px !important;
+    padding-top: 12px !important;
+    padding-bottom: 10px !important;
+}
+
+.btn-c {
+    background-color: #5CB85F;
+    border-radius: 7px;
+
+}
+
+/* for general black colored words */
+.text-black {
+    font-weight: bold;
+}
+
+/* for some white colored words */
+.text-white {
+    font-weight: bold;
+}
+
+/* navbar part*/
+.navbar {
+    background-color: #F1F3FF;
+    ;
+}
+
+/* .navbar li {
+    margin-right: 3px;
+    font-weight: 500;
+} */
+/* old */
+/* .navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar-light {
+    background-color: #F1F3FF !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    font-weight: 500;
+
+} */
+
+/* homepage (hero) part */
+.hero {
+    background-color: #F1F3FF !important;
+    padding-bottom: 30px;
+} 
+
+.hero-caption h2 {
+    font-size: 36px;
+    margin-top: 200px;
+}
+
+.hero-text p {
+    font-size: 14px;
+    margin-top: 15px;
+    padding: 5px 100px 5px 0px;
+    text-align: justify;
+}
+
+.hero-image {
+    margin-top: 100px;
+    max-width: 100%; 
+    height: auto;
+}
+
+/* our service part */
+.our-service {
+    background-color: #ffffff;
+    padding-top: 10px;
+}
+
+.our-service-image {
+    margin-top: 50px;
+    max-width: 100%; 
+    height: auto;
+}
+
+.our-service-caption h2 {
+    font-size: 24px;
+    margin-top: 80px;
+}
+
+.our-service-text p {
+    font-size: 14px;
+    margin-top: 15px;
+    padding: 5px 100px 5px 0px;
+    text-align: justify;
+}
+
+.our-service-list {
+    font-size: 14px;  
+    padding: 10px 10px 10px 0px;
+}
+
+/* why us part */
+.why-us {
+    padding-top: 50px;
+}
+
+.why-us-caption h2 {
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+.why-us-text p {
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.why-us-cards h5 {
+    font-size : 16px;
+    margin-top: 20px;
+}
+
+/* testimonials part */
+.section-testi .card {
+    background-color: #F1F3FF;
+    border: none;
+}
+
+/* rent banner part */
+/* .banner {
+    padding-top: 100px;
+} */
+
+.banner-card {
+    background: #0D28A6;
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.banner-caption h2{
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+.banner-text h6 {
+    color: #ffffff;
+    font-size: 14px;
+    margin-top: 15px;
+    position: relative;
+}
+
+/* faq part*/
+.faq {
+    padding-top: 50px;
+}
+
+.faq-caption h2 {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+.faq-text p {
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.all-accordion {
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+/* footer part*/
+.footer {
+    font-size: 14px;
+    padding-top: 100px;
+}
+
+.icon-holder img {
+    padding: 0px 2px 2px 2px;
+}
+
+
